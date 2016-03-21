@@ -1,0 +1,1 @@
+ThreadLocal:一个存放线程的局部变量。（ThreadLocalVariable）线程局部变量，他是为了解决多线程并发问题而设计的。
